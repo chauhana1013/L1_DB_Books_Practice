@@ -79,9 +79,9 @@ h1, h2, h3, h4 {
     font-family: 'Ubuntu', sans-serif;
 }
 
-/* Navigation Links */
+/* Side Links */
 a.side{font-weight: bold; text-decoration: none;}
-a.side:link, a.side :visited {color: #f6c970;} /*dark red */
+a.side:link, a.side:visited {color: #f6c970;} /*dark red */
 a.side:hover {color: #604830;} /* chocolate brown */
 
 
@@ -112,6 +112,6 @@ a:hover{color: #000;}    /* Black*/
 /* Sub Heading Formatting */
 .sub_heading {
     font-family: 'Ubuntu', sans-serif;
-    color: #593849; /* purple */
+    color: #fd913e; /* light orange */
     font-weight: bold;
 }
